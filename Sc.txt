@@ -1,0 +1,24 @@
+/dakimura-shop/
+├── public/
+│   └── Daki.json       # Data waifu dakimakura (masih kosong)
+├── src/
+│   ├── components/
+│   │   ├── WaifuCard.vue
+│   │   ├── Navbar.vue
+│   │   ├── Footer.vue
+│   │   └── ...
+│   ├── pages/
+│   │   ├── Home.vue
+│   │   ├── WaifuDetail.vue
+│   │   └── Checkout.vue
+│   ├── router/
+│   │   └── index.ts
+│   ├── store/
+│   │   └── cartStore.ts
+│   ├── App.vue
+│   └── main.ts
+├── index.html
+├── tsconfig.json
+├── vite.config.ts
+├── package.json
+└── README.md
